@@ -1,6 +1,6 @@
 # ECE-425-Final-project
 
-![Jbot](https://github.com/user-attachments/assets/f01b5f87-14b2-4a47-b322-687239f9a01c)
+
 
 ## Table of Contents  
 
@@ -43,6 +43,14 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 <a name="Results"/>
 
 ## Results 
+
+### Jbot version 1 
+![image](https://github.com/user-attachments/assets/c166ed7d-d93f-4171-b100-cfd7e8749279)
+
+### Jbot version 2
+![image](https://github.com/user-attachments/assets/2b131722-aa92-40a4-8511-0cc04d9e8df4)
+
+
 
 <a name="Block-Diagram"/>
 
