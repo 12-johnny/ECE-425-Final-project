@@ -1,6 +1,6 @@
 # ECE-425-Final-project
 
-ECE 425 Final project git hub
+![Jbot](https://github.com/user-attachments/assets/f01b5f87-14b2-4a47-b322-687239f9a01c)
 
 ## Table of Contents  
 
@@ -26,10 +26,10 @@ This describes our final project, in which we decided to create a robot that fol
   - ECE 425: Microprossesing systems
   
 Completed by:
-  - Jonathna Galindo
+  - Jonathan Galindo
   - Jonathan pena
     
-Pofessor:
+Professor:
   - Aaron Nanas
 
 <a name="Methodology"/>
@@ -38,7 +38,7 @@ Pofessor:
 
 As previously mentioned the embedded systems concepts that were applied in our project were GPIO, PWM, timers, and interrupts. GPIO was used for all the motor drivers and the PMOD button module, PWM was used to control the speed of the geared DC motors, interrupts were used with the PMOD button module to have each button perform a different set path, and timers were used to implement delay functions within our code. 
 The peripherals we used were GPIO, SysTick, PWM0_0, PWM1_3, Timer0_A, and PMOD_Handler. 
-The outcome of our project is a 4 wheeled bot that has four set paths that include incrementally speeding up, incrementally slowing down, square, and triangle paths.
+The outcome of our project is a 4 wheeled bot that has four set paths that include incrementally speeding up, slowing down, square, and triangle paths.
 
 <a name="Results"/>
 
