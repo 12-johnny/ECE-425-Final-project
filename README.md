@@ -65,6 +65,21 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 
 ## Components-list
 
+| Description               | Quantity      | Manufactur      |
+| --------------------------| ------------- |-----------------|
+| Tiva C series TM4C123G    | 1             | Texas Instrument|
+| USB-A to Micro-USB cable  | 1             | N/A             |
+| PMOD BTN Module           | 1             | Digilent        |
+| Geared DC Motors          | 4             | Gibildet        |
+| L298N dual DC Motor Driver| 2             | Hiletgo         |
+| Tires                     | 4             | Gibilet         |
+| 9v batteries              | 2             | Amazon          |
+| 9v Battery hardness       | 2             | N/A             |
+| Lego Tecnic               | 1             | Lego            |
+| Switches                  | 2             | N/A             |
+| Breadboard                | 1             | N/A             |
+| Wire                      | 1             | N/A             |
+
 <a name="Pinout-Table"/>
 
 ## Pinout-Table 
