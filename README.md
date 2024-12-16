@@ -61,11 +61,14 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 
 ## Block-Diagram
 
+![image](https://github.com/user-attachments/assets/a525f7c1-d97d-4fbb-9548-3a42da477702)
+### Full circuit schematic for JBOT
+
 <a name="Components-list"/>
 
 ## Components-list
 
-| Description               | Quantity      | Manufactur      |
+| Description               | Quantity      | Manufacture     |
 | --------------------------| ------------- |-----------------|
 | Tiva C series TM4C123G    | 1             | Texas Instrument|
 | USB-A to Micro-USB cable  | 1             | N/A             |
@@ -83,6 +86,14 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 <a name="Pinout-Table"/>
 
 ## Pinout-Table 
+
+
+| Description               | Quantity      | Manufacture     | 
+| --------------------------| ------------- |-----------------|
+| Tiva C series TM4C123G    | 1             | Texas Instrument|
+| USB-A to Micro-USB cable  | 1             | N/A             |
+| PMOD BTN Module           | 1             | Digilent        |
+| Geared DC Motors          | 4             | Gibildet        |
 
 <a name="References"/>
 
