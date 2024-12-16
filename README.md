@@ -50,7 +50,12 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 ### Jbot version 2
 ![image](https://github.com/user-attachments/assets/2b131722-aa92-40a4-8511-0cc04d9e8df4)
 
-
+### Result videos
+- Forward motion Demo:  [link](https://www.youtube.com/watch?v=0g-sLS1BYuo)
+- Reverse motion Demo:  [link](https://www.youtube.com/shorts/58Ausv4WyR4)
+- Square motion Demo:   [link](https://www.youtube.com/shorts/1VXs_1inAJk)
+- Triangle motion Demo: [link](https://www.youtube.com/watch?v=Pw7c7Hkyzvk)
+- Random motion Demo:   [link](https://www.youtube.com/watch?v=Pw7c7Hkyzvk)
 
 <a name="Block-Diagram"/>
 
