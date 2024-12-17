@@ -51,11 +51,11 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 ![image](https://github.com/user-attachments/assets/2b131722-aa92-40a4-8511-0cc04d9e8df4)
 
 ### Result videos
-- Forward motion Demo:  [link](https://www.youtube.com/watch?v=0g-sLS1BYuo)
-- Reverse motion Demo:  [link](https://www.youtube.com/shorts/58Ausv4WyR4)
-- Square motion Demo:   [link](https://www.youtube.com/shorts/1VXs_1inAJk)
-- Triangle motion Demo: [link](https://www.youtube.com/watch?v=Pw7c7Hkyzvk)
-- Random motion Demo:   [link](https://www.youtube.com/watch?v=Pw7c7Hkyzvk)
+- [Forward motion Demo](https://www.youtube.com/watch?v=0g-sLS1BYuo)
+- [Reverse motion Demo](https://www.youtube.com/shorts/58Ausv4WyR4)
+- [Square motion Demo](https://www.youtube.com/shorts/1VXs_1inAJk)
+- [Triangle motion Demo](https://www.youtube.com/watch?v=Pw7c7Hkyzvk)
+- [Random motion Demo](https://www.youtube.com/watch?v=Pw7c7Hkyzvk)
 
 <a name="Block-Diagram"/>
 
@@ -117,3 +117,11 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 <a name="References"/>
 
 ## References
+
+- [Tiva C Series TM4C123G LaunchPad Evaluation Board User's Guide](https://www.ti.com/lit/pdf/spmu296)
+- [Tiva TM4C123GH6PM Microcontroller Datasheet](https://www.ti.com/lit/gpn/TM4C123GH6PM)
+- [PMOD References](https://digilent.com/reference/pmod/pmodbtn/reference-manual)
+- [L289N Dual Motor driver](https://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf)
+- [lab 3 stopwatch](https://canvas.csun.edu/courses/154188/files/26684375?wrap=1)
+- [lab 4 PWM ](https://canvas.csun.edu/courses/154188/files/26725003?wrap=1)
+- [lab 5 stepper motor](https://canvas.csun.edu/courses/154188/files/26986033?wrap=1)
