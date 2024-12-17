@@ -64,6 +64,9 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 ![image](https://github.com/user-attachments/assets/a525f7c1-d97d-4fbb-9548-3a42da477702)
 ### Full circuit schematic for JBOT
 
+[Flowchart.pdf](https://github.com/user-attachments/files/18159021/Flowchart.pdf)
+### Block diagram for JBOT
+
 <a name="Components-list"/>
 
 ## Components-list
