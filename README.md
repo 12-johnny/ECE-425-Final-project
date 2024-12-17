@@ -87,13 +87,32 @@ The outcome of our project is a 4 wheeled bot that has four set paths that inclu
 
 ## Pinout-Table 
 
+### PMOD BTN Module 
 
-| Description               | Quantity      | Manufacture     | 
-| --------------------------| ------------- |-----------------|
-| Tiva C series TM4C123G    | 1             | Texas Instrument|
-| USB-A to Micro-USB cable  | 1             | N/A             |
-| PMOD BTN Module           | 1             | Digilent        |
-| Geared DC Motors          | 4             | Gibildet        |
+![image](https://github.com/user-attachments/assets/6d5c37fa-10ce-42d5-9dcb-4c18f2d2c540)
+
+
+| TM4C123G Launchpad| Pin Purpose   | 
+| ------------------| ------------- |
+| PA2               | BTN_0         |
+| PA3               | BTN_1         |
+| PA4               | BTN_2         |
+| PA5               | BTN_3         |
+| VCC (3.3v)        | Vcc           |
+| GND               | GND           |
+
+### L289N Dual Motor driver 
+
+![image](https://github.com/user-attachments/assets/35c13ad6-9feb-416b-b242-3b9ffc6a4d31)
+
+| TM4C123G Launchpad| Pin Purpose    | 
+| ------------------| ---------------|
+| PC4               | In 1,3 Driver R|
+| PC5               | In 2,4 Driver R|
+| PC6               | In 1,3 Driver L|
+| PC7               | In 2,4 Driver L|
+| PB6               | PWM0_0         |
+| PF2               | PWM0_1         |
 
 <a name="References"/>
 
